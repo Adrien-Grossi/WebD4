@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Chango");
+
+body {
+  background-image:url(ivory-off-white-paper-texture.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  cursor: url(BeeCursor.png), all-scroll;
+
+}
+h1 {
+    font-family: 'Chango', cursive;
+    font-size: 4em;
+    text-align: center;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+Video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+section {
+  background: #282828;
+  padding: 2em;
+  border-radius: 10px;
+  max-width:740px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-control-prev {
+  margin-bottom: 500px;
+}
+.carousel-control-next {
+  margin-bottom: 500px;
+}
+.carousel-indicators {
+  background: #282828;
+  padding: 0.5em;
+  border-radius: 5px;
+  margin-bottom: -120px;
+}
