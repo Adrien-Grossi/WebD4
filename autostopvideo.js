@@ -40,18 +40,18 @@ id_stop === 0 ? id_stop = 2 : id_stop--;
 
 window.onYouTubePlayerAPIReady = function () {
 videoArray[0] = new YT.Player("player1", {
-width: '600',
-height: '400',
+width: '560',
+height: '315',
 videoId: "2bgMRctEP7c"
 });
 videoArray[1] = new YT.Player("player2", {
-width: '600',
-height: '400',
+width: '560',
+height: '315',
 videoId: "drUxWNPlB3c"
 });
 videoArray[2] = new YT.Player("player3", {
-width: '600',
-height: '400',
+width: '560',
+height: '315',
 videoId: "omfqbMRw2gE"
 });
 }
