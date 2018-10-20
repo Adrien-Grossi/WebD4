@@ -31,10 +31,12 @@ section {
 }
 
 .carousel-control-prev {
-  margin-bottom: 500px;
+  margin-bottom: center;
+  margin-left: -75px;
 }
 .carousel-control-next {
-  margin-bottom: 500px;
+  margin-bottom: center;
+  margin-right: -75px;
 }
 .carousel-indicators {
   background: #282828;
